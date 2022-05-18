@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-**Enza-von-metaTronics/Enza-von-metaTronics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+glad+to+be+here+ :-))](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my skills in music, art and coding.  
 - 🌱 I’m currently learning Fullstack Webdevelopment at the DCI.
